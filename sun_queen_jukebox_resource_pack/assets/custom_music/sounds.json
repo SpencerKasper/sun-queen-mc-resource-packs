@@ -1,0 +1,11 @@
+{
+  "mysong": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-calypso",
+        "stream": true
+      }
+    ]
+  }
+}
