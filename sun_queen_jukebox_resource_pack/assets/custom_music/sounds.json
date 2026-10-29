@@ -16,5 +16,86 @@
         "stream": true
       }
     ]
+  },
+  "sun_queen-out_of_touch": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-out_of_touch",
+        "stream": true
+      }
+    ]
+  },
+  "sun_queen-aurora": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-aurora",
+        "stream": true
+      }
+    ]
+  },
+  "sun_queen-drain": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-drain",
+        "stream": true
+      }
+    ]
+  },
+  "sun_queen-load_in": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-load_in",
+        "stream": true
+      }
+    ]
+  },
+  "sun_queen-pieces": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-pieces",
+        "stream": true
+      }
+    ]
+  },
+  "sun_queen-realign": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-realign",
+        "stream": true
+      }
+    ]
+  },
+  "sun_queen-something_cosmic": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-something_cosmic",
+        "stream": true
+      }
+    ]
+  },
+  "sun_queen-sun_spots": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-sun_spots",
+        "stream": true
+      }
+    ]
+  },
+  "sun_queen-yellow_light": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom_music:sun_queen-yellow_light",
+        "stream": true
+      }
+    ]
   }
 }
